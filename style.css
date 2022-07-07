@@ -4,7 +4,25 @@ body{
 
 h1{
     font-size: 55px;
-    color: red;
+    color: orange;
 }p{
     font-size: 20px;
+    color: darksalmon;
+}
+h2{
+    color: red;
+    font-size: 35px;
+}
+section{
+    display:flex;
+   
+}
+.Link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,Red);
+    font-size: 25px;
+    padding: 6px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
 }
