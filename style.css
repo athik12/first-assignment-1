@@ -7,7 +7,7 @@ h1{
     color: orange;
 }p{
     font-size: 20px;
-    color: darksalmon;
+    color: wheat;
 }
 h2{
     color: red;
@@ -15,7 +15,14 @@ h2{
 }
 section{
     display:flex;
+    padding-left: 3%;
+    padding-right:3% ;
+    padding-top: 0%;
+    padding-bottom: 5%;
    
+}
+.full-width img{
+    width: 100%;
 }
 .Link-button{
     text-decoration: none;
@@ -25,4 +32,8 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: 500;
+}
+.Top-banner{
+    background-image: url(images/Sylhet-City-Jamat-Photo-21-06-2022-5.jpg);
+    background-repeat: no-repeat;
 }
